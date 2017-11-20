@@ -4182,7 +4182,7 @@ Total number of connections.
 
 
 [[exported-fields-kubernetes-processor]]
-== kubernetes Fields
+== kubernetes Processor Fields
 
 beta[]
 Kubernetes metadata added by the kubernetes processor
